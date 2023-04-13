@@ -1,6 +1,6 @@
 # Curriculo with React-Native
 
--Conteudo:
+- Conteudo:
   - View
   - Text
   - StyleSheet
